@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = kz.bbtiph.myapp.\
+    config.SqlTestContainersSpringContextCustomizerFactory,kz.bbtiph.myapp.\
+    config.TestContainersSpringContextCustomizerFactory,kz.bbtiph.myapp.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
